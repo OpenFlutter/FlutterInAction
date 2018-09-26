@@ -6,4 +6,4 @@
 
 ### 文章
 * [Reactive Programming - Streams - BLoC原文](https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/)
-* [Reactive Programming - Streams - BLoC译文](https://www.jianshu.com/p/e7e1bced6890）
+* [Reactive Programming - Streams - BLoC译文](https://www.jianshu.com/p/e7e1bced6890)
