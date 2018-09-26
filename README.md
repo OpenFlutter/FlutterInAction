@@ -1,2 +1,4 @@
 # FlutterInAction
-Flutter In Action.
+Flutter实战.
+
+## Architecture（架构相关）
