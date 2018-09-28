@@ -9,3 +9,5 @@ FlutterInAction主要收集Flutter相关知识以及优秀项目。
 * [优秀博客](./blogs.md)
 
 * [环境问题](./environment_issues.md)
+
+* [Flutter知识](./flutter_knowladges.md)
