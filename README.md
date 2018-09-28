@@ -10,4 +10,4 @@ FlutterInAction主要收集Flutter相关知识以及优秀项目。
 
 * [环境问题](./environment_issues.md)
 
-* [Flutter知识](./flutter_knowladges.md)
+* [Flutter知识](./flutter_knowledge.md)
